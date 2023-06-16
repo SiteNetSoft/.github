@@ -5,7 +5,7 @@
 <h2>Projects</h2>
 
 <p>
-<img alt="Amadla logo" src="./assets/amadla-logo.png" width="75" style="vertical-align: middle;"> <a href="https://amadla.org/">Amadla</a> - <a href="https://github.com/AmadlaOrg">GitHub</a> = <strong>Simplifying Infrastructure Management</strong>
+<img alt="Amadla logo" src="./assets/amadla-logo.png" width="75" style="vertical-align: middle; float: left;"> <a href="https://amadla.org/">Amadla</a> - <a href="https://github.com/AmadlaOrg">GitHub</a> = <strong>Simplifying Infrastructure Management</strong>
 </p>
 <em>More to come...</em>
 <!-- [Yaloub](https://yaloub.com/) - [GitHub](https://github.com/Yaloub) = An online file manager and PSB (Personal Service Bus) and PRP (Personal Resource Planning).
