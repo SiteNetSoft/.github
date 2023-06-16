@@ -3,7 +3,7 @@
 </p>
 
 <p>
-<img alt="Amadla logo" src="./assets/amadla-logo.png" width="35"> [Amadla](https://amadla.org/) - [GitHub](https://github.com/AmadlaOrg) = **Simplifying Infrastructure Management**
+<img alt="Amadla logo" src="./assets/amadla-logo.png" width="45"> <a href="https://amadla.org/">Amadla</a> - <a href="https://github.com/AmadlaOrg">GitHub</a> = <strong>Simplifying Infrastructure Management</strong>
 </p>
 <!-- [Yaloub](https://yaloub.com/) - [GitHub](https://github.com/Yaloub) = An online file manager and PSB (Personal Service Bus) and PRP (Personal Resource Planning).
 - [XTamia](https://xtamia.com/) - [GitHub](https://github.com/XTamia)
