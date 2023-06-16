@@ -9,7 +9,7 @@
 </p>
 
 <p>
- <a href="https://xtamia.com/"><img alt="XTamia logo" src="./assets/xtamia-logo.svg" width="100" style="vertical-align: middle; float: left;"> Website</a> - <a href="https://github.com/XTamia">GitHub</a> = <strong>Steering you through the data universe</strong>
+ <a href="https://xtamia.com/"><img alt="XTamia logo" src="./assets/xtamia-logo.png" width="100" style="vertical-align: middle; float: left;"> Website</a> - <a href="https://github.com/XTamia">GitHub</a> = <strong>Steering you through the data universe</strong>
 </p>
 
 <p>
