@@ -13,7 +13,7 @@
 </p>
 
 <p>
- <a href="https://yaloub.com/"><img alt="Yaloub logo" src="./assets/yaloub-logo.svg" width="100" style="vertical-align: middle; float: left;"> Website</a> - <a href="https://github.com/Yaloub">GitHub</a> = <strong>Your Personal Digital Assistant: Online File Management, Personal Service Bus, and Resource Planning all in one place</strong>
+ <a href="https://yaloub.com/"><img alt="Yaloub logo" src="./assets/yaloub-logo.svg" width="100" style="vertical-align: middle; float: left;"> Website</a> - <a href="https://github.com/Yaloub">GitHub</a> = <strong>Your Personal Digital Assistant: File Management, Service Bus, and Resource Planning all in one place</strong>
 </p>
 
 <p>
