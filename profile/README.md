@@ -8,7 +8,7 @@
  <a href="https://amadla.org/"><img alt="Amadla logo" src="./assets/amadla-logo.png" width="100" style="vertical-align: middle; float: left;"> Website</a> - <a href="https://github.com/AmadlaOrg">GitHub</a> = <strong>Simplifying Infrastructure Management</strong>
 </p>
 
-<p>
+<!--<p>
  <a href="https://xtamia.com/"><img alt="XTamia logo" src="./assets/xtamia-logo.png" width="100" style="vertical-align: middle; float: left;"> Website</a> - <a href="https://github.com/XTamia">GitHub</a> = <strong>Steering you through the data universe</strong>
 </p>
 
@@ -22,11 +22,8 @@
 
 <p>
  <a href="https://bth.bio/"><img alt="BTH logo" src="./assets/bth-logo.svg" width="100" style="vertical-align: middle; float: left;"> Website</a> - <a href="https://github.com/bthbio">GitHub</a> = <strong>Bioinformatics tools and online services</strong>
-</p>
+</p>-->
 
 <p>
 <em>More to come...</em>
 </p>
-<!-- [Yaloub](https://yaloub.com/) - [GitHub](https://github.com/Yaloub) = An online file manager and PSB (Personal Service Bus) and PRP (Personal Resource Planning).
-- [XTamia](https://xtamia.com/) - [GitHub](https://github.com/XTamia)
-- [BTH](https://bth.bio/) - [GitHub](https://github.com/bthbio)-->
