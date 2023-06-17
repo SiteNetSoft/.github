@@ -17,6 +17,10 @@
 </p>
 
 <p>
+ <a href="https://sitenetmedia.com/"><img alt="SiteNetMedia logo" src="./assets/sitenetmedia-logo.svg" width="100" style="vertical-align: middle; float: left;"> Website</a> - <a href="https://github.com/SiteNetMedia">GitHub</a> = <strong>Empowering multimedia platform</strong>
+</p>
+
+<p>
 <em>More to come...</em>
 </p>
 <!-- [Yaloub](https://yaloub.com/) - [GitHub](https://github.com/Yaloub) = An online file manager and PSB (Personal Service Bus) and PRP (Personal Resource Planning).
